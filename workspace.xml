@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a885b41b-33c5-41ea-92e0-351e7ad80aed" name="Changes" comment="git init &#10;git remote add origin gh repo clone SisiphoM/sisipho-mdaka-02&#10;git commit -m &quot;Initial commit&quot;&#10;git push -u origin main">
+      <change beforePath="$PROJECT_DIR$/target/debug/.fingerprint/cubecl-wgpu-827e865d58c7f988/run-build-script-build-script-build" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/.fingerprint/cubecl-wgpu-827e865d58c7f988/run-build-script-build-script-build" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/.fingerprint/cubecl-wgpu-fc41011699c70b1d/build-script-build-script-build" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/.fingerprint/cubecl-wgpu-fc41011699c70b1d/build-script-build-script-build" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/.fingerprint/document-features-4091b28f4166f8ea/lib-document_features" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/.fingerprint/document-features-4091b28f4166f8ea/lib-document_features" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/.fingerprint/getrandom-4038cef2df212784/run-build-script-build-script-build" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/.fingerprint/getrandom-4038cef2df212784/run-build-script-build-script-build" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/.fingerprint/wgpu-1e73b1d7ddbf6b7c/run-build-script-build-script-build" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/.fingerprint/wgpu-1e73b1d7ddbf6b7c/run-build-script-build-script-build" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/.fingerprint/wgpu-9561b3714db0d7b3/build-script-build-script-build" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/.fingerprint/wgpu-9561b3714db0d7b3/build-script-build-script-build" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/.fingerprint/wgpu-core-26297df0ab16ef71/build-script-build-script-build" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/.fingerprint/wgpu-core-26297df0ab16ef71/build-script-build-script-build" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/.fingerprint/wgpu-core-fc01b6fa4edfeb57/run-build-script-build-script-build" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/.fingerprint/wgpu-core-fc01b6fa4edfeb57/run-build-script-build-script-build" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/.fingerprint/winapi-ce2610cae88f10d8/run-build-script-build-script-build" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/.fingerprint/winapi-ce2610cae88f10d8/run-build-script-build-script-build" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/build/cubecl-runtime-0e460f7ed1218b11/build-script-build.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/build/cubecl-runtime-0e460f7ed1218b11/build-script-build.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/build/cubecl-runtime-0e460f7ed1218b11/build_script_build-0e460f7ed1218b11.d" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/build/cubecl-runtime-0e460f7ed1218b11/build_script_build-0e460f7ed1218b11.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/build/cubecl-runtime-0e460f7ed1218b11/build_script_build-0e460f7ed1218b11.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/build/cubecl-runtime-0e460f7ed1218b11/build_script_build-0e460f7ed1218b11.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/build/cubecl-runtime-0e460f7ed1218b11/build_script_build-0e460f7ed1218b11.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/build/cubecl-runtime-0e460f7ed1218b11/build_script_build-0e460f7ed1218b11.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/build/cubecl-runtime-0e460f7ed1218b11/build_script_build.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/build/cubecl-runtime-0e460f7ed1218b11/build_script_build.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/build/cubecl-runtime-ac5841ceda8df154/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/build/cubecl-runtime-ac5841ceda8df154/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/build/cubecl-wgpu-827e865d58c7f988/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/build/cubecl-wgpu-827e865d58c7f988/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/build/cubecl-wgpu-fc41011699c70b1d/build-script-build.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/build/cubecl-wgpu-fc41011699c70b1d/build-script-build.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/build/cubecl-wgpu-fc41011699c70b1d/build_script_build-fc41011699c70b1d.d" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/build/cubecl-wgpu-fc41011699c70b1d/build_script_build-fc41011699c70b1d.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/build/cubecl-wgpu-fc41011699c70b1d/build_script_build-fc41011699c70b1d.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/build/cubecl-wgpu-fc41011699c70b1d/build_script_build-fc41011699c70b1d.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/build/cubecl-wgpu-fc41011699c70b1d/build_script_build-fc41011699c70b1d.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/build/cubecl-wgpu-fc41011699c70b1d/build_script_build-fc41011699c70b1d.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/build/cubecl-wgpu-fc41011699c70b1d/build_script_build.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/build/cubecl-wgpu-fc41011699c70b1d/build_script_build.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/build/getrandom-4038cef2df212784/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/build/getrandom-4038cef2df212784/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/build/glutin_wgl_sys-b81d372ac8ca2a32/out/wgl_bindings.rs" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/build/glutin_wgl_sys-b81d372ac8ca2a32/out/wgl_bindings.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/build/glutin_wgl_sys-b81d372ac8ca2a32/out/wgl_extra_bindings.rs" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/build/glutin_wgl_sys-b81d372ac8ca2a32/out/wgl_extra_bindings.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/build/glutin_wgl_sys-b81d372ac8ca2a32/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/build/glutin_wgl_sys-b81d372ac8ca2a32/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/build/naga-793d979bacc9258f/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/build/naga-793d979bacc9258f/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/build/naga-db88193491274e36/build-script-build.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/build/naga-db88193491274e36/build-script-build.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/build/naga-db88193491274e36/build_script_build-db88193491274e36.d" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/build/naga-db88193491274e36/build_script_build-db88193491274e36.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/build/naga-db88193491274e36/build_script_build-db88193491274e36.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/build/naga-db88193491274e36/build_script_build-db88193491274e36.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/build/naga-db88193491274e36/build_script_build-db88193491274e36.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/build/naga-db88193491274e36/build_script_build-db88193491274e36.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/build/naga-db88193491274e36/build_script_build.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/build/naga-db88193491274e36/build_script_build.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/build/wgpu-1e73b1d7ddbf6b7c/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/build/wgpu-1e73b1d7ddbf6b7c/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/build/wgpu-9561b3714db0d7b3/build-script-build.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/build/wgpu-9561b3714db0d7b3/build-script-build.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/build/wgpu-9561b3714db0d7b3/build_script_build-9561b3714db0d7b3.d" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/build/wgpu-9561b3714db0d7b3/build_script_build-9561b3714db0d7b3.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/build/wgpu-9561b3714db0d7b3/build_script_build-9561b3714db0d7b3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/build/wgpu-9561b3714db0d7b3/build_script_build-9561b3714db0d7b3.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/build/wgpu-9561b3714db0d7b3/build_script_build-9561b3714db0d7b3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/build/wgpu-9561b3714db0d7b3/build_script_build-9561b3714db0d7b3.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/build/wgpu-9561b3714db0d7b3/build_script_build.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/build/wgpu-9561b3714db0d7b3/build_script_build.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/build/wgpu-core-26297df0ab16ef71/build-script-build.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/build/wgpu-core-26297df0ab16ef71/build-script-build.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/build/wgpu-core-26297df0ab16ef71/build_script_build-26297df0ab16ef71.d" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/build/wgpu-core-26297df0ab16ef71/build_script_build-26297df0ab16ef71.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/build/wgpu-core-26297df0ab16ef71/build_script_build-26297df0ab16ef71.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/build/wgpu-core-26297df0ab16ef71/build_script_build-26297df0ab16ef71.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/build/wgpu-core-26297df0ab16ef71/build_script_build-26297df0ab16ef71.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/build/wgpu-core-26297df0ab16ef71/build_script_build-26297df0ab16ef71.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/build/wgpu-core-26297df0ab16ef71/build_script_build.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/build/wgpu-core-26297df0ab16ef71/build_script_build.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/build/wgpu-core-fc01b6fa4edfeb57/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/build/wgpu-core-fc01b6fa4edfeb57/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/build/wgpu-hal-b77523c4ccb11ac2/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/build/wgpu-hal-b77523c4ccb11ac2/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/build/wgpu-hal-bb85250bd8d6019b/build-script-build.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/build/wgpu-hal-bb85250bd8d6019b/build-script-build.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/build/wgpu-hal-bb85250bd8d6019b/build_script_build-bb85250bd8d6019b.d" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/build/wgpu-hal-bb85250bd8d6019b/build_script_build-bb85250bd8d6019b.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/build/wgpu-hal-bb85250bd8d6019b/build_script_build-bb85250bd8d6019b.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/build/wgpu-hal-bb85250bd8d6019b/build_script_build-bb85250bd8d6019b.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/build/wgpu-hal-bb85250bd8d6019b/build_script_build-bb85250bd8d6019b.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/build/wgpu-hal-bb85250bd8d6019b/build_script_build-bb85250bd8d6019b.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/build/wgpu-hal-bb85250bd8d6019b/build_script_build.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/build/wgpu-hal-bb85250bd8d6019b/build_script_build.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/build/winapi-ce2610cae88f10d8/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/build/winapi-ce2610cae88f10d8/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/document_features-4091b28f4166f8ea.d" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/deps/document_features-4091b28f4166f8ea.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/document_features-4091b28f4166f8ea.dll" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/deps/document_features-4091b28f4166f8ea.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/document_features-4091b28f4166f8ea.dll.exp" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/deps/document_features-4091b28f4166f8ea.dll.exp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/document_features-4091b28f4166f8ea.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/deps/document_features-4091b28f4166f8ea.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/libcc-09da5d50c3bb1285.rlib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/prettyplease-8ee224518ed74054.d" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/deps/prettyplease-8ee224518ed74054.d" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="RsBuildProfile:dev" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Rust File in Dumb Mode" />
+        <option value="Rust File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="IsTuLgur" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2tMSVC6Ph2Y3Z3uZFbMct1fFTBl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.rust.reset.selective.auto.import": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Nonkululeko Magoso/RustroverProjects/Linear_regression",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
+    "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
+    "org.rust.disableDetachedFileInspectionC:/Users/Nonkululeko Magoso/RustroverProjects/Linear_regression/src/train.rs": "true",
+    "org.rust.first.attach.projects": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Run" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="command" value="run --package Linear_regression --bin Linear_regression" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a885b41b-33c5-41ea-92e0-351e7ad80aed" name="Changes" comment="" />
+      <created>1740160485952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740160485952</updated>
+      <workItem from="1740160485952" duration="1427000" />
+      <workItem from="1740162576263" duration="31062000" />
+      <workItem from="1740420439127" duration="2705000" />
+    </task>
+    <task id="LOCAL-00001" summary="git init &#10;git remote add origin gh repo clone SisiphoM/sisipho-mdaka-02&#10;git commit -m &quot;Initial commit&quot;&#10;git push -u origin main">
+      <option name="closed" value="true" />
+      <created>1740424851546</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740424851546</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git init &#10;git remote add origin gh repo clone SisiphoM/sisipho-mdaka-02&#10;git commit -m &quot;Initial commit&quot;&#10;git push -u origin main" />
+    <option name="LAST_COMMIT_MESSAGE" value="git init &#10;git remote add origin gh repo clone SisiphoM/sisipho-mdaka-02&#10;git commit -m &quot;Initial commit&quot;&#10;git push -u origin main" />
+  </component>
+</project>
